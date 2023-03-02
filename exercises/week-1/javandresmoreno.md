@@ -16,9 +16,11 @@ I'm determined to increase and improve in the latest **Frontend technologies**. 
 <br/>
 
 ### 💻 This is my portfolio:
-## ✨ [javandresmoreno](https://javandresmoreno.com)
+### ✨ [javandresmoreno.com](https://javandresmoreno.com)
+
 
 <br/>
+
 
 ### 🔥 You can catch me on:
 <br/>
@@ -46,11 +48,13 @@ I'm determined to increase and improve in the latest **Frontend technologies**. 
 | `echo` | prints in the terminal whatever parameter we pass it. <br/> `echo Hello UndefinedAcademy! // Output: Hello UndefinedAcademy` |
 | `head` | allows you to view the beginning of a file or piped data directly from the terminal. <br/> `head test.txt // Output: this is the beginning of my test file` |
 <br/>
+
 ## 2 Useful `alias`
 
 <br/>
 
 > These `alias` are in my terminal, which is *zsh*.
+
 
 | Alias | Description |
 | :---: | :--- |
