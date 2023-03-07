@@ -38,7 +38,7 @@ I'm determined to increase and improve in the latest **Frontend technologies**. 
 
 <br/>
 
-## 5 Terminal Commands that I learned
+## 5 Terminal Commands that I learnedZ
 
 | Command | Description |
 | :---: | :--- |

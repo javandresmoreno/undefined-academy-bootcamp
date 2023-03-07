@@ -15,5 +15,6 @@ Exercises repository for bootcamp of Full Stack JavaScript developer
 <summary> <strong>Week 1</strong> </summary>
 
 - 01: [Markdown Exercise](exercises/week-1/javandresmoreno.md)
+- 02: [Pull Request from Fork repository to Original repository](https://github.com/undefined-academy/semana-1/pull/74)
 
 </details>
